@@ -9,4 +9,4 @@ This package lets you download FFmpeg suite in any desired directory. It was cre
 
 1. Download `.jar` file from [Releases](https://github.com/RENOMIZER/ffmpeg-downloader/releases/latest) page.
 2. Place it in `lib` folder of your Java project.
-3. Import package using `import org.renomizer.FFmpegDownloader.*`
+3. Import package using `import io.github.renomizer.packages.FFmpegDownloader.*`
